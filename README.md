@@ -84,11 +84,11 @@
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a target= "_blank" href="https://www.facebook.com/rupam.shil.14" alt="Facebook"><img height='45' src="https://github.com/arvindsingh99/arvindsingh99/blob/main/facebook.png"></a>
-    <a target= "_blank" href="https://github.com/arvindsingh99/" alt="Github"><img height='45' src="hhttps://github.com/arvindsingh99/arvindsingh99/blob/main/github.png"></a>
-    <a target= "_blank" href="https://www.instagram.com/imrupamshil/?hl=en" alt="Instagram"><img height='45' src="https://github.com/arvindsingh99/arvindsingh99/blob/main/instagram.png"></a>
+    <a target= "_blank" href="#" alt="Facebook"><img height='45' src="https://github.com/arvindsingh99/arvindsingh99/blob/main/facebook.png"></a>
+    <a target= "_blank" href="#" alt="Github"><img height='45' src="hhttps://github.com/arvindsingh99/arvindsingh99/blob/main/github.png"></a>
+    <a target= "_blank" href="#" alt="Instagram"><img height='45' src="https://www.iconfinder.com/icons/5296765/camera_instagram_instagram_logo_icon"></a>
    
-    <a target= "_blank" href="https://www.linkedin.com/in/arvindsingh99/" alt="LinkedIn"><img height='45' src="https://github.com/arvindsingh99/arvindsingh99/blob/main/linkedin.png"></a>
+    <a target= "_blank" href="#" alt="LinkedIn"><img height='45' src="https://github.com/arvindsingh99/arvindsingh99/blob/main/linkedin.png"></a>
     
   </p>
   
