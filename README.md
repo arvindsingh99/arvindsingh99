@@ -69,25 +69,25 @@
         <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ysom2Zl---/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1jqa96mtdymq7ydgjqf1.png" width="60">
     </td>
   <td align='center' width="190">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLOWTrvnesk3pmoDJBLs9Rozmul5xAmBFD9exSLhI0srZZs2NknNqdgK5h1wMEpsplkjg&usqp=CAU" width="60">
+        <img src="https://e7.pngegg.com/pngimages/835/426/png-clipart-teal-and-white-letter-s-logo-semantic-ui-logo-icons-logos-emojis-tech-companies.png" width="60">
     </td>
    
 </tr>
- <tr>
-    <td align='center'>
-        <img src="">
+ <tr> 
+    <td align='center' width="190">
+        <img src="https://image.flaticon.com/icons/png/512/2111/2111292.png" width="60">
     </td>
-    <td align='center'>
-        <img src="" >
+   <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="60">
     </td>
-    <td align='center'>
-        <img src="">
+   <td align='center' width="190">
+        <img src="" width="60">
     </td>
-    <td align='center'>
-        <img src="">
+   <td align='center' width="190">
+        <img src="" width="60">
     </td>
-    <td align='center'>
-        <img src="">
+   <td align='center' width="190">
+        <img src="" width="60">
     </td>
 </tr>
  
