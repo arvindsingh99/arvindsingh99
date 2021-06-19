@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arvindsingh99?tab=repositories](https://github.com/arvindsingh99?tab=repositories)
 
-- 💬 Ask me about ** Web-Dev, JavaScript, Java**
+- 💬 Ask me about ** Web-Dev, Java, C++**
 
 - 📫 How to reach me **arvindsingh151099@gmail.com**
 
 - ⚡ Follow me **https://www.instagram.com/**
 
-<h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
+<h2 align='center'><i>💻 My Skills 💻</i></h2>
 <table width="100">
  <tr>
     <td align='center' width="190">
