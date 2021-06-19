@@ -78,24 +78,15 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arvindsingh99&show_icons=true&theme=synthwave" alt="arvindsingh99" /> </p>
 
-
-
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+    <a target= "_blank" href="https://www.facebook.com/" alt="Facebook"><img height='45' src="https://github.com/arvindsingh99/arvindsingh99/blob/main/facebook.png"></a>
 
-  <p align="center">
-    <a target= "_blank" href="#" alt="Facebook"><img height='45' src="https://github.com/arvindsingh99/arvindsingh99/blob/main/facebook.png"></a>
-    <a target= "_blank" href="#" alt="Github"><img height='45' src="hhttps://github.com/arvindsingh99/arvindsingh99/blob/main/github.png"></a>
-    <a target= "_blank" href="#" alt="Instagram"><img height='45' src="https://www.iconfinder.com/icons/5296765/camera_instagram_instagram_logo_icon"></a>
-   
-    <a target= "_blank" href="#" alt="LinkedIn"><img height='45' src="https://github.com/arvindsingh99/arvindsingh99/blob/main/linkedin.png"></a>
-    
   </p>
   
 </p>
 <p align="left">
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindsingh99&theme=synthwave">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=arvindsingh99&hide_border=true">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=arvindsingh99&theme=synthwave">
 </p>
 
 
