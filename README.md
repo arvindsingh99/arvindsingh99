@@ -1,30 +1,25 @@
-![About Me](https://github.com/arvindcse99/arvindcse99/raw/master/bio.gif)
+
 <h1 align="center">Hi 👋, I'm Arvind Singh</h1>
 <h3 align="center">&lt; I eat, I sleep Rest of the time I code &gt;</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arvindsingh99" alt="arvindsingh99" /> </p>
  
- // ![###](link####)
+![About Me](https://github.com/arvindcse99/arvindcse99/raw/master/bio.gif)
 
 
-- 🔭 I’m currently working on **Front-End Development**
 
-- 👯 I’m looking to collaborate on <a href="https://github.com/arvindsingh99/ML-mini-projects.git"><strong>ML-miniprojects</strong></a>
 
-- 🤔 I’m looking for help with **MEVN Stack**
+- 🤔 I’m looking position for with **MERN Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arvindsingh99?tab=repositories](https://github.com/arvindsingh99?tab=repositories)
 
 - 📝 I regulary create content on [https://www.instagram.com/thesyntacticsugar/](https://www.instagram.com/thesyntacticsugar/)
 
-- 💬 Ask me about **Machine-Learning, Web-Dev, Python**
+- 💬 Ask me about ** Web-Dev, JavaScript, Java**
 
-- 📫 How to reach me **rupamshil111@gmail.com**
+- 📫 How to reach me **arvindsingh151099@gmail.com**
 
-- ⚡ Follow me **https://www.instagram.com/mlbackbenchers/**
+- ⚡ Follow me **https://www.instagram.com/**
 
-- ⚡ Follow me **https://www.instagram.com/imrupamshil/**
-
-- 👨‍ Check me out **https://rupamshil.netlify.app/**
 <h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
 <table width="100">
 <tr>
@@ -102,6 +97,6 @@
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindsingh99&theme=synthwave">
 <img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=arvindsingh99&theme=synthwave">
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=arvindsingh99&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+
 
 
