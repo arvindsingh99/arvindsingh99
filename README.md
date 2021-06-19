@@ -39,7 +39,9 @@
 </tr>
 
 <tr>
-  
+    <td align='center'>
+        <img src="" width="60">
+    </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
     </td>
@@ -48,9 +50,6 @@
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-    </td>
-  <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
