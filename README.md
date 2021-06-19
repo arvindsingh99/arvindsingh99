@@ -39,9 +39,7 @@
 </tr>
 
 <tr>
-    <td align='center'>
-        <img src="" width="60">
-    </td>
+   
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
     </td>
@@ -50,6 +48,9 @@
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+  <td align='center'>
+        <img src="" >
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
