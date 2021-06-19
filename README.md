@@ -105,9 +105,9 @@
   
 </p>
 <p align="center">
-<img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindsingh99&theme=synthwave">
-<img align="left" height="300px"  width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=arvindsingh99&theme=synthwave">
+<img align="center" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindsingh99&theme=synthwave">
+<img align="center" height="300px"  width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=arvindsingh99&theme=synthwave">
 </p>
-
+<img src="https://activity-graph.herokuapp.com/graph?username=arvindsingh99&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 
 
