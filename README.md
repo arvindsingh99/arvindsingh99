@@ -81,34 +81,16 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="60">
     </td>
    <td align='center' width="190">
-        <img src="" width="60">
-    </td>
-   <td align='center' width="190">
-        <img src="" width="60">
-    </td>
-   <td align='center' width="190">
-        <img src="" width="60">
-    </td>
-</tr>
- 
-<tr>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-   <td align='center'>
-        <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="60">
-    </td>
-    <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
     </td>
- 
+   <td align='center' width="190">
+        <img src="https://pbs.twimg.com/profile_images/1290672565690695681/0G4bie6b_400x400.jpg" width="60">
+    </td>
+   <td align='center' width="190">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/256_Php_logo-512.png" width="60">
+    </td>
 </tr>
+ 
 </table>
 
 
