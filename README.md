@@ -24,7 +24,7 @@
 <table width="100">
  <tr>
     <td align='center' width="190">
-        <img src="https://www.flaticon.com/free-icon/c_919839?term=c&page=1&position=52&page=1&position=52&related_id=919839&origin=search" width="60">
+        <img src="https://image.flaticon.com/icons/png/512/919/919839.png" width="60">
     </td>
    
    
