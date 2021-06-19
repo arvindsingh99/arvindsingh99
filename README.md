@@ -37,24 +37,41 @@
         <img src="https://image.flaticon.com/icons/png/512/919/919836.png" width="60">
     </td>
 </tr>
-
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
+ <tr>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60">
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="60">
     </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png">
+    <td align='center' width="190">
+        <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="60">
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+   <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="60">
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+   <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="60">
     </td>
 </tr>
+<tr>
+    <td align='center'>
+        <img src="">
+    </td>
+    <td align='center'>
+        <img src="" >
+    </td>
+    <td align='center'>
+        <img src="">
+    </td>
+    <td align='center'>
+        <img src="">
+    </td>
+    <td align='center'>
+        <img src="">
+    </td>
+</tr>
+ 
 <tr>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
