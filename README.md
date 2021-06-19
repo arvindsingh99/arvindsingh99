@@ -39,23 +39,7 @@
         <img src="https://image.flaticon.com/icons/png/512/919/919836.png" width="60">
     </td>
 </tr>
-<tr>
-    <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/68724228/119315331-5cea3780-bc93-11eb-9bbf-bc2c9f083e00.png" width="60">
-    </td>
-     <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="60">
-    </td>
-</tr>
+
 <tr>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60">
@@ -66,17 +50,14 @@
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="80">
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+   <td align='center'>
+        <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="60">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="60">
-    </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
@@ -86,9 +67,13 @@
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
+   <td align='center'>
+        <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="60">
+    </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
     </td>
+ 
 </tr>
 </table>
 
