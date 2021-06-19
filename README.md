@@ -3,7 +3,7 @@
 <h3 align="center">&lt; I eat, I sleep Rest of the time I code &gt;</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arvindsingh99" alt="arvindsingh99" /> </p>
  
-![About Me](https://github.com/arvindcse99/arvindcse99/raw/master/bio.gif)
+<!-- ![About Me](https://github.com/arvindcse99/arvindcse99/raw/master/bio.gif) -->
 
 
 
