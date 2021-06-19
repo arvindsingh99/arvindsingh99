@@ -63,7 +63,7 @@
         <img src="https://image.flaticon.com/icons/png/512/919/919826.png" width="60">
     </td>
   <td align='center' width="190">
-        <img src="https://freepikpsd.com/media/2019/10/bootstrap-icon-png-2.png" width=https://freepikpsd.com/media/2019/10/bootstrap-icon-png-2.png width="60">
+        <img src="https://freepikpsd.com/media/2019/10/bootstrap-icon-png-2.png" width="60">
     </td>
   <td align='center' width="190">
         <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ysom2Zl---/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1jqa96mtdymq7ydgjqf1.png" width="60">
