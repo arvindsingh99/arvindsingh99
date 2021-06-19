@@ -56,19 +56,19 @@
     </td>
 </tr>
 <tr>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://image.flaticon.com/icons/png/512/919/919827.png" width="60">
     </td>
-  <td align='center'>
+  <td align='center' width="190">
         <img src="https://image.flaticon.com/icons/png/512/919/919826.png" width="60">
     </td>
-  <td align='center'>
+  <td align='center' width="190">
         <img src="https://freepikpsd.com/media/2019/10/bootstrap-icon-png-2.png" width=https://freepikpsd.com/media/2019/10/bootstrap-icon-png-2.png"60">
     </td>
-  <td align='center'>
+  <td align='center' width="190">
         <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ysom2Zl---/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1jqa96mtdymq7ydgjqf1.png" width="60">
     </td>
-  <td align='center'>
+  <td align='center' width="190">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLOWTrvnesk3pmoDJBLs9Rozmul5xAmBFD9exSLhI0srZZs2NknNqdgK5h1wMEpsplkjg&usqp=CAU" width="60">
     </td>
    
