@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arvindsingh99?tab=repositories](https://github.com/arvindsingh99?tab=repositories)
 
-- 📝 I regulary create content on [https://www.instagram.com/thesyntacticsugar/](https://www.instagram.com/thesyntacticsugar/)
-
 - 💬 Ask me about ** Web-Dev, JavaScript, Java**
 
 - 📫 How to reach me **arvindsingh151099@gmail.com**
@@ -41,9 +39,7 @@
 </tr>
 
 <tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60">
-    </td>
+  
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
     </td>
@@ -52,6 +48,9 @@
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+  <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
