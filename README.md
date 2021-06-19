@@ -51,7 +51,7 @@
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="60">
     </td>
    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="60">
+        <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="60">
     </td>
 </tr>
 <tr>
