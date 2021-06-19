@@ -79,7 +79,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arvindsingh99&show_icons=true&theme=synthwave" alt="arvindsingh99" /> </p>
 
 <p align="center">
-    <a target= "_blank" href="https://www.facebook.com/" alt="Facebook"><img height='45' src="https://github.com/arvindsingh99/arvindsingh99/blob/main/facebook.png"></a>
+    <a target= "_blank" href="https://www.facebook.com/" alt="Facebook"><img height='45' src="https://github.com/arvindsingh99/arvindsingh99raw/master/facebook.png"></a>
 
   </p>
   
