@@ -30,8 +30,13 @@
         <img src="https://image.flaticon.com/icons/png/512/919/919854.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="![image](https://user-images.githubusercontent.com/49105436/122642324-89289500-d127-11eb-8664-36bdc3e7570a.png)
-" width="60">
+        <img src="https://image.flaticon.com/icons/png/512/919/919841.png" width="60">
+    </td>
+   <td align='center' width="190">
+        <img src="https://image.flaticon.com/icons/png/512/919/919828.png" width="60">
+    </td>
+   <td align='center' width="190">
+        <img src="https://image.flaticon.com/icons/png/512/919/919836.png" width="60">
     </td>
 </tr>
 <tr>
