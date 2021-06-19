@@ -105,7 +105,7 @@
 </p>
 <p align="left">
 <img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindsingh99&theme=synthwave">
-<img align="left" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=arvindsingh99&theme=synthwave">
+<img align="left" height="300px"  src="https://github-readme-streak-stats.herokuapp.com/?user=arvindsingh99&theme=synthwave">
 </p>
 
 
