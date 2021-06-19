@@ -51,8 +51,7 @@
    <td align='center'>
         <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="60">
     </td>
- <td align='center'>
-        <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="60">
+ 
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
