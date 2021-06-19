@@ -22,6 +22,19 @@
 
 <h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
 <table width="100">
+ <tr>
+    <td align='center' width="190">
+        <img src="https://www.flaticon.com/free-icon/c_919839?term=c&page=1&position=52&page=1&position=52&related_id=919839&origin=search" width="60">
+    </td>
+   
+   
+     <td align='center' width="190">
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="60">
+    </td>
+</tr>
 <tr>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
