@@ -39,19 +39,20 @@
 </tr>
  <tr>
     <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60">
+        <img src="https://image.flaticon.com/icons/png/512/919/919825.png" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="60">
+        <img src="https://image.flaticon.com/icons/png/512/919/919851.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="60">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDd7x1hpmr3_qJro576sfABbSPjfEb5pmKFg&usqp=CAU" width="60">
     </td>
-   <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="60">
-    </td>
+  
    <td align='center' width="190">
         <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="60">
+    </td>
+   <td align='center' width="190">
+        <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2018/09/firebase_logo_shot.png" width="60">
     </td>
 </tr>
 <tr>
