@@ -41,17 +41,17 @@
 </tr>
 
 <tr>
-    
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60">
+    </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
     </td>
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="80">
     </td>
-   <td align='center'>
-        <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="60">
-    </td>
- 
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
