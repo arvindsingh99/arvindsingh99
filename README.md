@@ -8,7 +8,7 @@
 
 
 
-- 🤔 I’m looking position for with **MERN Stack Developer**
+- 🤔 I’m looking position for **MERN Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arvindsingh99?tab=repositories](https://github.com/arvindsingh99?tab=repositories)
 
@@ -17,6 +17,7 @@
 - 📫 How to reach me **arvindsingh151099@gmail.com**
 
 - ⚡ Follow me **https://www.instagram.com/**
+- ⚡ Connect with me  **https://www.linkedin.com/**
 
 <h2 align='center'><i>💻 My Skills 💻</i></h2>
 <table width="100">
